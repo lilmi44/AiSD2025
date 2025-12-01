@@ -7,7 +7,7 @@ using namespace std;
 
 struct Point {
     int x, y;
-};
+}; 
 
 struct BoardType {
     int m[DIMENSION + 1][DIMENSION + 1]; // Содержимое доски
